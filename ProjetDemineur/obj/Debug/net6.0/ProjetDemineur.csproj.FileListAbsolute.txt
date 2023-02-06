@@ -1,0 +1,15 @@
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\bin\Debug\net6.0\ProjetDemineur.exe
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\bin\Debug\net6.0\ProjetDemineur.deps.json
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\bin\Debug\net6.0\ProjetDemineur.runtimeconfig.json
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\bin\Debug\net6.0\ProjetDemineur.dll
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\bin\Debug\net6.0\ProjetDemineur.pdb
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.csproj.AssemblyReference.cache
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.AssemblyInfoInputs.cache
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.AssemblyInfo.cs
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.csproj.CoreCompileInputs.cache
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.dll
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\refint\ProjetDemineur.dll
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.pdb
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ProjetDemineur.genruntimeconfig.cache
+H:\Visual Studio\ProjetDemineur\ProjetDemineur\obj\Debug\net6.0\ref\ProjetDemineur.dll
