@@ -127,7 +127,7 @@ namespace ProjetDemineur
             } while (valueOk);
 
             Console.WriteLine();
-            TableauHaut(ligne, colonne);
+            Tableau(ligne, colonne);
             Console.ReadLine();
 
         }
@@ -229,12 +229,8 @@ namespace ProjetDemineur
 
                         }
                     }
-
-
-
                 }
             }
         }
-
     }
 }
